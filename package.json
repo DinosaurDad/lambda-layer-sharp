@@ -1,6 +1,6 @@
 {
   "name": "lambda-layer-sharp",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "repository": "git@github.com:Umkus/lambda-layer-sharp.git",
   "license": "Apache License 2.0",
   "module": "lambda-layer-sharp",
@@ -12,10 +12,10 @@
     "zip-webpack-plugin": "^4.0.1"
   },
   "dependencies": {
-    "sharp": "^0.30.3"
+    "sharp": "^0.31.3"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=18"
   },
   "author": "Mykhailo Gorianskyi <goreanski@gmail.com>"
 }
